@@ -2,6 +2,7 @@
 // =============================================================
 var express = require("express");
 var path = require("path");
+var friends=require("./app/data/friends");
 
 // Sets up the Express App
 // =============================================================
